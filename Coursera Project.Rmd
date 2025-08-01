@@ -1,0 +1,16 @@
+---
+title: "Coursera Project - Assemble Your Toolbox"
+author: "Sharifa"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+## Tools I Have Set Up
+
+As part of this Coursera course, I’m learning to use the essential tools in data science.  
+This R Markdown file is just a small step to show that I’ve got the basics ready.
+
+Here’s what I’ve set up so far:
+
+- R  
+- RStu
